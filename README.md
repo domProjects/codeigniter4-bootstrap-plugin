@@ -86,12 +86,6 @@ Example `path` repositories:
 }
 ```
 
-## Release Flow
-
-1. Push this repository to GitHub.
-2. Create a tag such as `v1.0.0`.
-3. Submit the repository URL to Packagist.
-
 ## License
 
 MIT
