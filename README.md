@@ -1,5 +1,11 @@
 # Bootstrap 5 Plugin for CodeIgniter 4
 
+[![Packagist](https://img.shields.io/packagist/v/domprojects/codeigniter4-bootstrap-plugin?label=Packagist)](https://packagist.org/packages/domprojects/codeigniter4-bootstrap-plugin)
+[![License](https://img.shields.io/github/license/domProjects/codeigniter4-bootstrap-plugin)](https://github.com/domProjects/codeigniter4-bootstrap-plugin/blob/main/LICENSE)
+[![PHPUnit](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-bootstrap-plugin/phpunit.yml?branch=main&label=PHPUnit)](https://github.com/domProjects/codeigniter4-bootstrap-plugin/actions/workflows/phpunit.yml)
+[![Psalm](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-bootstrap-plugin/psalm.yml?branch=main&label=Psalm)](https://github.com/domProjects/codeigniter4-bootstrap-plugin/actions/workflows/psalm.yml)
+[![PHPStan](https://img.shields.io/github/actions/workflow/status/domProjects/codeigniter4-bootstrap-plugin/phpstan.yml?branch=main&label=PHPStan)](https://github.com/domProjects/codeigniter4-bootstrap-plugin/actions/workflows/phpstan.yml)
+
 Composer plugin for automatic Bootstrap asset publication in CodeIgniter 4 projects.
 
 This package is the optional automation companion for `domprojects/codeigniter4-bootstrap`.
