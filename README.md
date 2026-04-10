@@ -1,4 +1,4 @@
-# domProjects CodeIgniter 4 Bootstrap Plugin
+# Bootstrap 5 Plugin for CodeIgniter 4
 
 Composer plugin for automatic Bootstrap asset publication in CodeIgniter 4 projects.
 
